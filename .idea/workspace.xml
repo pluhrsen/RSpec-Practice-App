@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f5e46-59c2-42f5-9e83-43dacd6e68df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/models/task.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/models/task_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/task.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spec/models/project_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/project_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/models/task_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/task_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -146,11 +147,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589490542414</updated>
-      <workItem from="1589490543749" duration="2655000" />
+      <workItem from="1589490543749" duration="2930000" />
+      <workItem from="1589550250655" duration="1089000" />
+      <workItem from="1589552750811" duration="2497000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
